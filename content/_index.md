@@ -2,8 +2,6 @@
 title: Henrique Zani
 ---
 
-
-
 <p style="text-align: center; padding: 32px;">
   Welcome to my website
   <br>
@@ -15,10 +13,6 @@ I build software, products, and content.
 
 <a href="/posts" class="btn btn-primary mt-4">View all posts →</a>
 
-- [Meu primeiro post](/posts/2025/11/25/my-first-post)
-- [Meu primeiro post](/posts/2025/11/25/my-first-post)
-- [Meu primeiro post](/posts/2025/11/25/my-first-post)
-- [Meu primeiro post](/posts/2025/11/25/my-first-post)
 - [Meu primeiro post](/posts/2025/11/25/my-first-post)
 
 ---
