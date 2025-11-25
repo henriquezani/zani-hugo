@@ -13,6 +13,7 @@ I build software, products, and content.
 
 <a href="/posts" class="btn btn-primary mt-4">View all posts →</a>
 
+- [Meu segundo post](/posts/2025/11/24/my-second-post)
 - [Meu primeiro post](/posts/2025/11/25/my-first-post)
 
 ---
