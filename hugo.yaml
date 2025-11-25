@@ -1,5 +1,7 @@
 # Hugo configuration file
-title: My Site
+title: Henrique Zani
+languageCode: "pt-BR"
+baseURL: "https://henriquezani.com/"
 
 # import hextra as module
 module:
@@ -18,22 +20,23 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
     - name: About
       pageRef: /about
-      weight: 2
+      weight: 1
     - name: Contact ↗
-      url: "https://github.com/imfing"
+      url: "https://www.linkedin.com/in/henrique-zani/"
+      weight: 2
+    - name: Resume
       weight: 3
+      url: "https://github.com/henriquezani"
     - name: Search
       weight: 4
       params:
         type: search
+
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/henriquezani"
       params:
         icon: github
     - name: Twitter
@@ -48,9 +51,23 @@ params:
     displayLogo: false
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: true
 
   editURL:
     enable: true
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+
+  youtubeDefaults:
+    iframeAllowList: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy: "no-referrer"
+    iframeStyle: "border:0; width:100%; aspect-ratio:16/9;"
+
+  theme:
+    default: dark
+
+  author:
+    name: Henrique Zani
+    email: henrique.zani@hotmail.com
+
+  description: "Meu blog para falar de tudo."
