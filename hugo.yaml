@@ -3,6 +3,9 @@ title: Henrique Zani
 languageCode: "pt-BR"
 baseURL: "https://henriquezani.com/"
 
+outputs:
+  home: [HTML,RSS]
+
 # import hextra as module
 module:
   imports:
@@ -44,6 +47,11 @@ menu:
       url: "https://twitter.com/"
       params:
         icon: x-twitter
+    - name: RSS
+      weight: 7
+      url: "/index.xml"
+      params:
+        icon: rss
 
 params:
   navbar:
