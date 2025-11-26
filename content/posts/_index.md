@@ -3,7 +3,10 @@ title: Henrique's Blog
 prev: /
 ---
 
-## 2025 - November
+## 2022 - June
 
-- [Segundo blog](/posts/2025/11/24/my-second-post/)
-- [Primeiro blog](/posts/2025/11/25/my-first-post/)
+- [Diferenças entre MVC, MVP e MVVM — Design Patterns](/posts/2022/05/20/mvc-mvp-mvvm-design-patterns)
+
+## 2021 - December
+
+- [O que é blockchain? — Entenda de uma vez por todas o que é esse blockchain](/posts/2021/12/02/what-is-blockchain)
