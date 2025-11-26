@@ -11,9 +11,9 @@ Exploring LLMs, model training workflows, and MLOps to better understand how AI 
 
 ### experience
 
-- Software Engineer — NDD Tech Brasil (2024–Present)
-- Full Stack Developer — Siimp Sistemas (2022–2024)
-- Front End Developer — SuperPoker (2021–2022)
+- Software Engineer - NDD Tech Brasil (2024–Present)
+- Full Stack Developer - Siimp Sistemas (2022–2024)
+- Front End Developer - SuperPoker (2021–2022)
 
 ### blogs
 
