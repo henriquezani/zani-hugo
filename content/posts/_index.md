@@ -6,6 +6,9 @@ prev: /
 ## 2025 - December
 
 - [Aprenda Ciência da Computação por Conta Própria](/posts/2025/12/02/teachyourselfcs)
+
+## 2025 - January
+
 - [Clean Code Review](/posts/2025/01/16/cleancode)
 
 ## 2022 - June
