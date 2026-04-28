@@ -3,6 +3,10 @@ title: Henrique's Blog
 prev: /
 ---
 
+## 2026 - April
+
+- [C++ Review](/posts/2026/04/28/cpp)
+
 ## 2025 - December
 
 - [Aprenda Ciência da Computação por Conta Própria](/posts/2025/12/02/teachyourselfcs)
