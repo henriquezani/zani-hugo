@@ -1,0 +1,13 @@
+# Versões das ferramentas usadas para buildar este site.
+#
+# Mantenha em sincronia com os ambientes de deploy:
+#   - netlify.toml                 -> HUGO_VERSION / GO_VERSION
+#   - .github/workflows/pages.yaml -> env.HUGO_VERSION / setup-go
+#
+# O Hugo precisa ficar travado: o Hextra v0.11.1 usa `.Site.Author`, que foi
+# removido em versões mais novas do Hugo e quebra o build (`can't evaluate
+# field Author in type page.Site`). Só suba a versão junto com a do tema.
+
+[tools]
+hugo = "0.152.2"
+go = "1.22.6"

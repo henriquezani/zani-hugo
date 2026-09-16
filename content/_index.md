@@ -16,6 +16,7 @@ I am a software engineer with 4+ years of experience, working mostly in back-end
 
 <a href="/posts" class="btn btn-primary mt-4">View all posts →</a>
 
+- [Framework 13 — primeiras impressões de quem comprou usado](/posts/2026/09/15/framework-13)
 - [C++ Review](/posts/2026/04/28/cpp)
 - [Aprenda Ciência da Computação por Conta Própria](/posts/2025/12/02/teachyourselfcs)
 - [Clean Code Review](/posts/2025/01/16/cleancode)

@@ -3,6 +3,10 @@ title: Henrique's Blog
 prev: /
 ---
 
+## 2026 - September
+
+- [Framework 13 — primeiras impressões de quem comprou usado](/posts/2026/09/15/framework-13)
+
 ## 2026 - April
 
 - [C++ Review](/posts/2026/04/28/cpp)
