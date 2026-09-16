@@ -1,5 +1,5 @@
 ---
-title: Framework 13 — primeiras impressões de quem comprou usado
+title: Framework 13 — primeiras impressões
 date: "2026-09-15T14:00:00-03:00"
 slug: framework-13
 tags:
