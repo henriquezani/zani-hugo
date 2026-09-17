@@ -1,6 +1,7 @@
 # Hugo configuration file
 title: Henrique Zani
 languageCode: "pt-BR"
+defaultContentLanguage: "pt-br"
 baseURL: "https://henriquezani.com/"
 
 outputs:

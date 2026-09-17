@@ -2,6 +2,8 @@
 title: Framework 13 — primeiras impressões
 date: "2026-09-15T14:00:00-03:00"
 slug: framework-13
+images:
+  - /posts/2026/09/15/framework-13/framework-13-fechado.jpg
 tags:
   - framework
   - framework 13
